@@ -18,6 +18,6 @@
 🎥 [twitch][twitch] **|** 
 
 [website]: https://jamesperkins.dev
-[twitter]: https://twitter.com/perkinsjr
+[twitter]: https://twitter.com/james_r_perkins
 [youtube]: https://youtube.com/learntocodewithjames
 [twitch]: https://twitch.tv/jamesperkins
