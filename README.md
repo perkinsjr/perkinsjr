@@ -1,12 +1,10 @@
 
-# Hi, I'm James 👋 I'm a Developer Advocate, and Teacher!
+# Hi, I'm James 👋 I'm Founder. 
 
 
-👩‍💻 I'm currently working on educational content and Jamstack.
+👩‍💻 I'm currently building [Unkey](https://unkey.dev) 
 
-💬 Ask me about JavaScript, Full Stack development, JAMstack.
-
-📫 How to reach me: contactme@jamesperkins.dev
+📫 How to reach me: james@jamesperkins.dev
 
 😄 Pronouns: He/Him
 
